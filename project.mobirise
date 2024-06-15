@@ -52,7 +52,7 @@
     ],
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "mjnmhk3lkm",
+    "mbrsiteDomain": "oszf3ew4so",
     "usedWebp": true,
     "cssOptimize": true,
     "lazyLoad": true,
@@ -98,24 +98,7 @@
     "witsec-mailform-allowedhtml": "b,br,i,p,u",
     "witsec-mailform-recaptcha-hidebadge": false,
     "witsec-mailform": true,
-    "chatbutton": {
-      "phone": "+79068077757",
-      "message": "",
-      "size": "65px",
-      "backgroundColor": "#e5ddd5",
-      "position": "left",
-      "popupMessage": "Hi!👋\n\nType a message here. It will go straight to our phone! 🔥\n\nMobirise Team",
-      "showPopup": false,
-      "showOnIE": true,
-      "autoOpenTimeout": "5",
-      "headerColor": "#39847a",
-      "headerTitle": "👋 Chat with us on WhatsApp!",
-      "placeholder": "Здравствуйте! ",
-      "zIndex": 10,
-      "chatbuttonPopup": false,
-      "defaultMessage": "",
-      "enabled": true
-    }
+    "chatbutton": false
   },
   "pages": {
     "index.html": {
